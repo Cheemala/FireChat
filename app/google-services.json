@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "439289676572",
+    "firebase_url": "https://fir-fe7dd.firebaseio.com",
+    "project_id": "fir-fe7dd",
+    "storage_bucket": "fir-fe7dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439289676572:android:8d7a342de31dd31a",
+        "android_client_info": {
+          "package_name": "com.trackbuzz.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439289676572-akvtbiglk3a6r1ad84elbl1uh005v4ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj8gHIcX5BDUGwKsjau2q7ZecQ8KF84Zg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

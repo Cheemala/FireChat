@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="ip_text">http://</string>
+    <string name="ip_btn_txt">Ok</string>
+    <string name="sbmt_btn_txt">Sign in</string>
+    <string name="snup_btn_txt">Sign up</string>
+    <string name="or_txt">(or)</string>
+    <string name="buddy_nam_txt">Buddy name</string>
+</resources>
