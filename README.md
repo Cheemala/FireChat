@@ -19,4 +19,4 @@ Step4:
 
 Step5:
 
--> Happy chatting with your buddy!!! Thumbs up :);)
+-> Happy chatting with your buddy!!! Thumbs up :):)
