@@ -1,5 +1,6 @@
 # FireChat
 This is a chat application that is taken Firebase as backend
+
 Step1:
 
 -> Download the project.
